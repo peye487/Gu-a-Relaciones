@@ -14,6 +14,7 @@ public class Perro {
     private String raza;
     private Integer edad;
     private String tamanio;
+    private String atributoUnoEjGitHub;
 
     public Perro() {
     }
