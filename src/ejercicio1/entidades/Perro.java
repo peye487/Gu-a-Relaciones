@@ -15,6 +15,7 @@ public class Perro {
     private Integer edad;
     private String tamanio;
     private String atributoUnoEjGitHub;
+    private String atributoDosEjGitHub;
 
     public Perro() {
     }
